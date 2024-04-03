@@ -10,7 +10,7 @@ const HeroSection = () => {
                     <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-pink-600">Hello, I'm {" "}</span>
                 Jeina</h1>
                 <p className='text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl'>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam laborum quisquam eum ad repellat ipsum odio error, rerum eveniet perferendis sunt amet, quaerat quidem. Tempora laudantium perspiciatis facilis ab iste!
+                Welcome! I'm a web developer passionate about coding. Explore my projects and join me as I strive for excellence in web development. Let's create something amazing together!
                     </p>
                     <div>
                         <button className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-pink-600 via-red-400 to-red-600  hover:bg-slate-200 text-white'>
